@@ -1,4 +1,4 @@
-# moments
+# Moments
 ### [Live Site](https://max-moments.netlify.app/)
 
 ## Introduction
